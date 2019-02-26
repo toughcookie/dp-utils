@@ -1,6 +1,6 @@
 {
   "removeElements": [
-    ".sufei-dialog-kissy", ".tb-doctor", "#J_DcHead", "#J_SiteNav"
+    ".sufei-dialog-kissy", ".tb-doctor", "#J_DcHead", "#J_SiteNav", ".sufei-dialog"
   ],
   "priceElements": [
     ".tb-rmb-num", ".tm-price"
