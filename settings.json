@@ -6,6 +6,6 @@
     ".tb-rmb-num", ".tm-price"
   ],
   "basketElements": [
-    ".tb-action"
+    "#J_juValid", ".tb-action"
    ]
 }
