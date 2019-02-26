@@ -15,7 +15,7 @@
   },
   "tmall": {
     "removeElements": [
-      ".sufei-dialog", "#J_MUIMallbar"
+      "#site-nav", ".sufei-dialog", "#J_MUIMallbar"
     ],
     "infoElements": [
       ".tm-fcs-panel"  
