@@ -4,5 +4,8 @@
   ],
   "priceElements": [
     ".tb-rmb-num", ".tm-price"
-  ]
+  ],
+  "basketElements": [
+    ".tb-action"
+   ]
 }
