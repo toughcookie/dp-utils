@@ -2,6 +2,9 @@
   "removeElements": [
     ".sufei-dialog-kissy", ".tb-doctor", "#J_DcHead", "#J_SiteNav", ".sufei-dialog", ".mui-mbar"
   ],
+  "infoElements": [
+    ".tb-meta", ".tm-fcs-panel"  
+  ]
   "priceElements": [
     ".tb-rmb-num", ".tm-price"
   ],
