@@ -1,14 +1,30 @@
 {
-  "removeElements": [
-    ".sufei-dialog-kissy", ".tb-doctor", "#J_DcHead", "#J_SiteNav", ".sufei-dialog", ".mui-mbar"
-  ],
-  "infoElements": [
-    ".tb-meta", ".tm-fcs-panel"  
-  ],
-  "priceElements": [
-    ".tb-rmb-num", ".tm-price"
-  ],
-  "cartElements": [
-    "#J_juValid", ".tb-action"
-   ]
+  "taoabo": {
+    "removeElements": [
+      ".sufei-dialog-kissy", ".tb-doctor", "#J_DcHead", "#J_SiteNav"
+    ],
+    "infoElements": [
+      ".tb-meta"
+    ],
+    "priceElements": [
+      ".tb-rmb-num"
+    ],
+    "cartElements": [
+      "#J_juValid"
+     ]
+  },
+  "tmall": {
+    "removeElements": [
+      ".sufei-dialog", ".mui-mbar"
+    ],
+    "infoElements": [
+      ".tm-fcs-panel"  
+    ],
+    "priceElements": [
+      ".tm-price"
+    ],
+    "cartElements": [
+      ".tb-action"
+     ]
+  }
 }
