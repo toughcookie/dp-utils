@@ -5,7 +5,7 @@
   "priceElements": [
     ".tb-rmb-num", ".tm-price"
   ],
-  "basketElements": [
+  "cartElements": [
     "#J_juValid", ".tb-action"
    ]
 }
