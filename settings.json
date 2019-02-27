@@ -11,6 +11,9 @@
     ],
     "cartElements": [
       "#J_isku"
+     ],
+    "cartProps": [
+      "#J_Prop"
      ]
   },
   "tmall": {
@@ -25,6 +28,9 @@
     ],
     "cartElements": [
       ".tb-action"
+     ],
+    "cartProps": [
+      "#J_Prop"
      ]
   }
 }
