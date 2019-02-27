@@ -27,10 +27,10 @@
       ".tm-price"
     ],
     "cartElements": [
-      ".tb-action"
+      ".tb-sku"
      ],
     "cartProps": [
-      ".J_Prop"
+      ".tb-prop"
      ]
   }
 }
