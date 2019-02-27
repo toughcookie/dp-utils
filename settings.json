@@ -13,7 +13,7 @@
       "#J_isku"
      ],
     "cartProps": [
-      "#J_Prop"
+      ".J_Prop"
      ]
   },
   "tmall": {
@@ -30,7 +30,7 @@
       ".tb-action"
      ],
     "cartProps": [
-      "#J_Prop"
+      ".J_Prop"
      ]
   }
 }
