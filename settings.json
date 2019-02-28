@@ -25,7 +25,7 @@
       ".tm-fcs-panel"  
     ],
     "priceElements": [
-      ".tm-price", ".tm-original-price s"
+      ".tm-price", ".tm-original-price s", ".look_price"
     ],
     "cartElements": [
       ".tb-sku"
