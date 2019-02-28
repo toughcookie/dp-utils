@@ -1,7 +1,7 @@
 {
   "taobao": {
     "removeElements": [
-      ".sufei-dialog-kissy", ".tb-doctor", "#J_DcHead", "#J_SiteNav"
+      ".tb-doctor", "#J_DcHead", "#J_SiteNav"
     ],
     "infoElements": [
       ".tb-meta"
@@ -18,7 +18,7 @@
   },
   "tmall": {
     "removeElements": [
-      "#site-nav", ".sufei-dialog", "#J_MUIMallbar"
+      "#site-nav", "#J_MUIMallbar"
     ],
     "infoElements": [
       ".tm-fcs-panel"  
