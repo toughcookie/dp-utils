@@ -7,7 +7,7 @@
       ".tb-meta"
     ],
     "priceElements": [
-      ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", ".c-price"
+      ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", "p.price strong", ".c-price"
     ],
     "cartElements": [
       "#J_isku"
