@@ -51,9 +51,6 @@
     "cartPropSelected": [
       "tb-selected"
     ],
-    "cartQuantity": [
-      "tb-text mui-amount-input", ""  
-    ],
     "Y_course": 10
   }
 }
