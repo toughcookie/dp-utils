@@ -10,7 +10,7 @@
       ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", "div.price strong", ".c-price"
     ],
     "cartElements": [
-      ".tb-skin li.tb-selected", ".tb-skin input"
+      ".tb-skin li", ".tb-skin input"
     ],
     "cartProp": [
       ".tb-prop"
@@ -34,7 +34,7 @@
       ".tm-price", ".tm-original-price s", ".look_price", ".tm-combo-price s", ".price span", ".c-price", ".ui-price"
     ],
     "cartElements": [
-      ".tb-sku li.tb-selected", ".tb-skin input"
+      ".tb-sku li", ".tb-skin input"
     ],
     "cartProp": [
       ".tb-prop"
