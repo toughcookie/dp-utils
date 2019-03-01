@@ -4,7 +4,7 @@
       ".tb-doctor", "#J_DcHead", "#J_SiteNav", ".tb-toolbar", "#tstart"
     ],
     "infoElements": [
-      ".tb-property-type", ".tb-prop li"
+      ".tb-property-type", ".tb-prop li span"
     ],
     "priceElements": [
       ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", "div.price strong", ".c-price"
@@ -28,7 +28,7 @@
       "#site-nav", "#J_MUIMallbar"
     ],
     "infoElements": [
-      ".tb-metatit", ".tb-prop li"
+      ".tb-metatit", ".tb-prop li span"
     ],
     "priceElements": [
       ".tm-price", ".tm-original-price s", ".look_price", ".tm-combo-price s", ".price span", ".c-price", ".ui-price"
