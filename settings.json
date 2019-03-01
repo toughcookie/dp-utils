@@ -10,11 +10,17 @@
       ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", "div.price strong", ".c-price"
     ],
     "cartElements": [
-      "#J_isku"
-     ],
-    "cartProps": [
-      ".J_Prop"
-     ],
+      ".tb-skin"
+    ],
+    "cartProp": [
+      ".tb-prop"
+    ],
+    "cartPropType": [
+      ".tb-property-type"  
+    ],
+    "cartPropSelected": [
+      ".tb-selected"
+    ],
     "Y_course": 10
   },
   "tmall": {
@@ -29,10 +35,16 @@
     ],
     "cartElements": [
       ".tb-sku"
-     ],
-    "cartProps": [
+    ],
+    "cartProp": [
       ".tb-prop"
-     ],
+    ],
+    "cartPropType": [
+      ".tb-property-type"  
+    ],
+    "cartPropSelected": [
+      ".tb-selected"
+    ],
     "Y_course": 10
   }
 }
