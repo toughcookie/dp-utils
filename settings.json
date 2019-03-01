@@ -19,7 +19,7 @@
       ".tb-property-type"  
     ],
     "cartPropSelected": [
-      "li.tb-selected"
+      "tb-selected"
     ],
     "Y_course": 10
   },
@@ -43,7 +43,7 @@
       ".tb-property-type"  
     ],
     "cartPropSelected": [
-      "li.tb-selected"
+      "tb-selected"
     ],
     "Y_course": 10
   }
