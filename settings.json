@@ -4,7 +4,7 @@
       ".tb-doctor", ".tb-toolbar", "#J_DcHead", "#J_SiteNav", ".tb-toolbar", "#tstart"
     ],
     "infoElements": [
-      ".tb-property-type", ".tb-prop li span"
+      ".tb-property-type", ".tb-prop li span", ".tb-main-title"
     ],
     "priceElements": [
       ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", "div.price strong", ".c-price"
