@@ -3,6 +3,9 @@
     "removeElements": [
       ".tb-doctor", ".tb-toolbar", "#J_DcHead", "#J_SiteNav", ".tb-toolbar", "#tstart"
     ],
+    "titleElements": [
+      ".tb-main-title"
+    ],
     "infoElements": [
       ".tb-property-type", ".tb-prop li span", ".tb-main-title"
     ],
