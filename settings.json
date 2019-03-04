@@ -55,5 +55,32 @@
       "tb-selected"
     ],
     "Y_course": 10
+  },
+  "1688": {
+    "removeElements": [
+      "#site-nav", "#J_MUIMallbar"
+    ],
+    "infoElements": [
+      ".price-title", ".d-title", ".obj-title"
+    ],
+    "priceElements": [
+      ".offerPrice .price", ".price-original-sku", ".price .value"
+    ],
+    "cartElements": [
+      ".mod-detail-purchasing .unit-detail-spec-operator.active"
+    ],
+    "cartQuantity": [
+      ".mod-detail-purchasing input"
+    ],
+    "cartProp": [
+      ".price-title"
+    ],
+    "cartPropType": [
+      ".price-title"  
+    ],
+    "cartPropSelected": [
+      "tb-selected"
+    ],
+    "Y_course": 10
   }
 }
