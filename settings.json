@@ -12,6 +12,9 @@
     "priceElements": [
       ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", "div.price strong", ".c-price"
     ],
+    "cartButtons": [
+      ".tb-action"
+    ],
     "cartElements": [
       ".tb-skin li.tb-selected"
     ],
@@ -61,7 +64,7 @@
       "#site-nav", ".qyzx3", ".ali-vbar"
     ],
     "infoElements": [
-      ".price-title", ".d-title", ".obj-title"
+      ".price-title", ".d-title", ".obj-title", ".amount-title"
     ],
     "priceElements": [
       ".offerPrice .price", ".price-original-sku", ".price .value"
