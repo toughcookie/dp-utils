@@ -58,7 +58,7 @@
   },
   "1688": {
     "removeElements": [
-      "#site-nav", "#J_MUIMallbar"
+      "#site-nav", ".qyzx3", ".ali-vbar"
     ],
     "infoElements": [
       ".price-title", ".d-title", ".obj-title"
