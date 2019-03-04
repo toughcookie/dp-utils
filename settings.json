@@ -15,9 +15,6 @@
     "cartButtons": [
       ".tb-action"
     ],
-    "cartElements": [
-      ".tb-skin li.tb-selected"
-    ],
     "cartQuantity": [
       ".tb-skin input"
     ],
@@ -28,7 +25,7 @@
       ".tb-property-type"  
     ],
     "cartPropSelected": [
-      "tb-selected"
+      ".tb-skin li.tb-selected"
     ],
     "Y_course": 10
   },
