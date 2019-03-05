@@ -39,8 +39,8 @@
     "priceElements": [
       ".tm-price", ".tm-original-price s", ".look_price", ".tm-combo-price s", ".price span", ".c-price", ".ui-price"
     ],
-    "cartElements": [
-      ".tb-sku li.tb-selected"
+    "cartButtons": [
+      ".tb-action"
     ],
     "cartQuantity": [
       ".tb-sku input"
@@ -52,7 +52,7 @@
       ".tb-property-type"  
     ],
     "cartPropSelected": [
-      "tb-selected"
+      ".tb-sku li.tb-selected"
     ],
     "Y_course": 10
   },
