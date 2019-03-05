@@ -46,7 +46,7 @@
       ".tb-sku input"
     ],
     "cartProp": [
-      ".tb-prop"
+      ".tm-sale-prop"
     ],
     "cartPropType": [
       ".tb-property-type"  
