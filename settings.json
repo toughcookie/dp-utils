@@ -1,7 +1,7 @@
 {
   "taobao": {
     "removeElements": [
-      ".tb-doctor", ".tb-toolbar", "#J_DcHead", "#J_SiteNav", ".tb-toolbar", "#tstart"
+      ".tb-doctor", ".tb-toolbar", "#J_DcHead", "#J_SiteNav", ".tb-toolbar", "#tstart", ".tb-side"
     ],
     "titleElements": [
       ".tb-main-title"
