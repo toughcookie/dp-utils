@@ -33,8 +33,11 @@
     "removeElements": [
       "#site-nav", "#J_MUIMallbar"
     ],
+    "titleElements": [
+      ".tb-detail-hd h1"
+    ],
     "infoElements": [
-      ".tb-metatit", ".tb-prop li span"
+      ".tb-metatit", ".tb-prop li span", ".tb-detail-hd h1"
     ],
     "priceElements": [
       ".tm-price", ".tm-original-price s", ".look_price", ".tm-combo-price s", ".price span", ".c-price", ".ui-price"
