@@ -12,6 +12,9 @@
     "priceElements": [
       ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", "div.price strong", ".c-price"
     ],
+    "cartPrice": [
+      ".tb-meta .tb-rmb-num"
+    ],
     "cartButtons": [
       ".tb-action"
     ],
@@ -41,6 +44,9 @@
     ],
     "priceElements": [
       ".tm-price", ".tm-original-price s", ".look_price", ".tm-combo-price s", ".price span", ".c-price", ".ui-price"
+    ],
+    "cartPrice": [
+      ".tm-fcs-panel .tm-price"
     ],
     "cartButtons": [
       ".tb-action"
