@@ -43,7 +43,7 @@
       ".tb-metatit", ".tb-prop li span", ".tb-detail-hd h1"
     ],
     "priceElements": [
-      ".tm-price", ".tm-original-price s", ".look_price", ".tm-combo-price s", ".price span", ".c-price", ".ui-price", "a[class*='-price']", ".productPrice em"
+      ".tm-price", ".tm-original-price s", ".look_price", ".tm-combo-price s", ".price span", ".c-price", ".ui-price", "a[class$='-price']", ".productPrice em"
     ],
     "cartPrice": [
       ".tm-fcs-panel .tm-price"
