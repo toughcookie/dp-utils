@@ -10,7 +10,7 @@
       ".tb-property-type", ".tb-prop li span", ".tb-main-title"
     ],
     "priceElements": [
-      ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", "div.price strong", ".c-price", "a[class=*-price]"
+      ".tb-rmb-num", ".tm-price", "span.price", "b.price", "p.price span", "div.price strong", ".c-price", "a[class$='-price']"
     ],
     "cartPrice": [
       ".tb-meta .tb-rmb-num"
